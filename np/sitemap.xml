@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/np/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csitauthority.github.io/8thSem/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://csitauthority.github.io/8thSem/np/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/np/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csitauthority.github.io/8thSem/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://csitauthority.github.io/8thSem/np/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/np/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csitauthority.github.io/8thSem/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://csitauthority.github.io/8thSem/np/tags/"
+                />
+  </url>
+  
+</urlset>

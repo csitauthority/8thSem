@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8th Semester BSc. CSIT on CSITauthority 8th Sem</title>
+    <link>https://csitauthority.github.io/8thSem/en/</link>
+    <description>Recent content in 8th Semester BSc. CSIT on CSITauthority 8th Sem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2017 07:39:35 +0545</lastBuildDate>
+    
+	<atom:link href="https://csitauthority.github.io/8thSem/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TU Old Questions</title>
+      <link>https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/</guid>
+      <description>FilesCSC451 - Data Warehousing and Data Mining - 2069.jpg View Download(34 Kb)CSC451 - Data Warehousing and Data Mining - 2071(I).jpg View Download(38 Kb)CSC451 - Data Warehousing and Data Mining - 2071(II).jpg View Download(71 Kb)CSC453 - Advanced Networking with IPv6 - 2069.jpg View Download(29 Kb)CSC453 - Advanced Networking with IPv6 - 2071.</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://csitauthority.github.io/8thSem/en/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/credits/</guid>
+      <description>Contributors for 8th Sem Thanks to them  for making CSIT community a better place !
+.ghContributors{display:flex;flex-flow: wrap;align-content: flex-start}.ghContributors  div{width: 50% ;display: inline-flex;}.ghContributors  div label{padding-left: 4px ;}.ghContributors  div span{padding-left: 4px ;}.ghContributors img.imgStyle{vertical-align:middle;margin-bottom:.25em;}.ghContributors  div{margin-bottom: 5px;}.ghContributors  div span{font-size: x-small;}.</description>
+    </item>
+    
+    <item>
+      <title>How to Contribute</title>
+      <link>https://csitauthority.github.io/8thSem/en/how-to-contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/how-to-contribute/</guid>
+      <description>This is the barebones graph TD;A(Decide to Contribute) --|fork the repository| B[Make Desired Changes]B -- C{Is Change Good?}C --|NO| D[Make it good]D -- CC --|YES| E[Good! You&#39;re ready to share it with everybody]E --|commit and push to your forked repository| F(Make a pull request)I am a bit confused This walkthrough assumes that you have made a github account prior to doing this</description>
+    </item>
+    
+    <item>
+      <title>Two Strokes</title>
+      <link>https://csitauthority.github.io/8thSem/en/two-strokes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/two-strokes/</guid>
+      <description>Minimal. Fast. Robust. The migration from Blogger CMS to Hugo demanded something radical. Following the design language, this is the answer. Two Strokes is completely vector generated with just two strokes and some mathematics!
+Why does it matter? Well, for starters, its scalable from that to this and, thats not the end of it. It renders fast; no compromises for Hugo. Now, only TU keeps you waiting, not our DOM.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/questions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://csitauthority.github.io/8thSem/np/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csitauthority.github.io/8thSem/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://csitauthority.github.io/8thSem/np/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csitauthority.github.io/8thSem/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/how-to-contribute/</loc>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://csitauthority.github.io/8thSem/np/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://csitauthority.github.io/8thSem/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/two-strokes/</loc>
+  </url>
+  
+</urlset>

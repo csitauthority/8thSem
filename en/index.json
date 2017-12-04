@@ -1,0 +1,57 @@
+[
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/",
+	"title": "TU Old Questions",
+	"tags": [],
+	"description": "",
+	"content": "\r\rFiles\r\r\rCSC451 - Data Warehousing and Data Mining - 2069.jpg View Download\r(34 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(I).jpg View Download\r(38 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(II).jpg View Download\r(71 Kb)\r\r\rCSC453 - Advanced Networking with IPv6 - 2069.jpg View Download\r(29 Kb)\r\r\rCSC453 - Advanced Networking with IPv6 - 2071.jpg View Download\r(34 Kb)\r\r\rCSC457 - Distributed and Object Oriented Database - 2071(II).jpg View Download\r(82 Kb)\r\r\rCSC458 - Cloud Computing - 2069.jpg View Download\r(31 Kb)\r\r\rCSC458 - Cloud Computing - 2071.jpg View Download\r(43 Kb)\r\r\rCSC459 - Geographical Information System - 2069.jpg View Download\r(30 Kb)\r\r\rCSC459 - Geographical Information System - 2071.jpg View Download\r(42 Kb)\r\r\rCSC459 - Geographical Information System - 2071.zip View Download\r(42 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rPDF\r\r\rCSC458 - Cloud Computing - 2069-71.pdf View Download\r(330 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/questions/",
+	"title": "Questions",
+	"tags": [],
+	"description": "",
+	"content": " Section 1 Questions Browse Old-Questions, Model Questions, Sendup Questions and more from the community.\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/",
+	"title": "8th Semester BSc. CSIT",
+	"tags": [],
+	"description": "",
+	"content": " 8th Semester contents for BSc. CSIT \u0026nbsp;contributors  .ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r1 commits\r\r  "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": " Contributors for 8th Sem Thanks to them  for making CSIT community a better place !\n.ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r1 commits\r\r And a very special thanks to @matcornic for his work on Hugo Theme Learn, a hugo port inspired by Grav Learn Theme. The very first version of content subpages for CSITauthority is based off this commit.\nLogo  Two Strokes - Minimal. Fast. Fluid. Fully Vector Design  Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Hugo Github - Continuous deployment and hosting of this website  "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/how-to-contribute/",
+	"title": "How to Contribute",
+	"tags": [],
+	"description": "",
+	"content": " This is the barebones graph TD;\rA(Decide to Contribute) --|fork the repository| B[Make Desired Changes]\rB -- C{Is Change Good?}\rC --|NO| D[Make it good]\rD -- C\rC --|YES| E[Good! You're ready to share it with everybody]\rE --|commit and push to your forked repository| F(Make a pull request)\r\r\r\rI am a bit confused\r\r\r This walkthrough assumes that you have made a github account prior to doing this\n  Fork this entire repository Make desired changes  Such as adding files to content/ Deleting content deemed unnecesary Adding resources such as Questions/Notes/Links etc  Determine if the changes you\u0026rsquo;ve made is good  A good change is one which does not break the system The first thing to ensure is that your repo is not behind the master when pushing. Learn to be a commit ahead. If that seems hard^, then atleast make sure there are no conficting changes Ofcourse, we at CSITauthority do not ignore bad commits but, bad commits will take longer to appear on the main website. Lastly, don\u0026rsquo;t sweat the details. If you feel its good, push it. Moderators won\u0026rsquo;t let anything that shouldnt break, break.  Now, if the change your propose is good to go, please commit it one final time then push to your master Then you need to make a pull request from your forked repository. Once your pull request is submitted, moderators will make sure necessary changes are made. Your contributions are valuable to us. Expect to see YOUR content soon! You are now an official contributor. Yes, our website automatically enlists you in the contributor list as long as you have configured your Git-bash properly Happy Contributing! and Welcome to the family.   Still Confused? We\u0026rsquo;re just a click away\n \r\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/two-strokes/",
+	"title": "Two Strokes",
+	"tags": [],
+	"description": "",
+	"content": " Minimal. Fast. Robust. The migration from Blogger CMS to Hugo demanded something radical. Following the design language, this is the answer. Two Strokes is completely vector generated with just two strokes and some mathematics!\nWhy does it matter? Well, for starters, its scalable from that to this and, thats not the end of it. It renders fast; no compromises for Hugo. Now, only TU keeps you waiting, not our DOM. The premise of this migration is to define a new standard in serving content through CSITauthority; our logo should keep up.\n Two Strokes \u0026copy; 2017 Siddhant Rimal\n "
+}]
