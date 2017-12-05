@@ -16,10 +16,14 @@ googleAnalytics = "UA-75904987-1"
 
 [params]
   editURL = "https://github.com/csitauthority/8thSem/edit/master/content/"
+  uploadURL = "https://github.com/csitauthority/8thSem/upload/master/content/"
   description = "8th Semester Contents for BSc. CSIT"
+  repoView = "https://github.com/csitauthority/8thSem"
+  repoStar = "https://github.com/csitauthority/8thSem"
+  repoFork = "https://github.com/csitauthority/8thSem/fork"
   author = "CSITauthority"
   showVisitedLinks = true
-  #disableLanguageSwitchingButton = true
+  disableLanguageSwitchingButton = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

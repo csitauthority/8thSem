@@ -22,9 +22,8 @@ requests, or commit any material to this repository.
 
 ## LICENSES FOR INCORPORATED CODEBASES AND CONTENT
 
-Incorporating content from [8thsem](https://github.com/cdrrazan/8thsem),<br/>
-Copyright © 2017 Rajan Bhattarai<br/>
-Licensed MIT<br/>
+Incorporating content from [CSIT-GUIDE](https://github.com/CSIT-GUIDE/EIGHTH_SEMESTER),<br/>
+Copyright © 2017 Sagar Giri<br/>
 
 
 Text of MIT License:
