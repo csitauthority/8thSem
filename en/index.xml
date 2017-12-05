@@ -6,10 +6,41 @@
     <description>Recent content in 8th Semester BSc. CSIT on CSITauthority 8th Sem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Sep 2017 07:39:35 +0545</lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 21:23:17 +0545</lastBuildDate>
     
 	<atom:link href="https://csitauthority.github.io/8thSem/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Subject List</title>
+      <link>https://csitauthority.github.io/8thSem/en/list-of-subjects/new-subject-list/</link>
+      <pubDate>Sat, 28 Oct 2017 21:23:17 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/list-of-subjects/new-subject-list/</guid>
+      <description>Based on course-update in late 2017. Effective from Academic year 2074.
+Related filecourse-update-TU-official.pdf View Download(917 Kb)a.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}   Subject Code Subject      COMPULSORY   CSC 461 Advanced Database   CSC 462 Internship    ELECTIVE Choose any two majors (atleast)   CSC 463 Advanced Networking with IPV6   CSC 464 Distributed Networking   CSC 465 Game Technology   CSC 466 Distributed and Object Oriented Database   CSC 467 Introduction to Cloud Computing   CSC 468 Geographical Information System   CSC 469 Decision Support System and Expert System   CSC 470 Mobile Application Development   CSC 471 Real Time Systems   CSC 472 Network and System Administration   CSC 473 Embedded Systems Programming   MGT 474 International Business Management    *Fair Warning: Internship consumes an ungodly amount of time from your daily life.</description>
+    </item>
+    
+    <item>
+      <title>Old Subject List</title>
+      <link>https://csitauthority.github.io/8thSem/en/list-of-subjects/old-subject-list/</link>
+      <pubDate>Sat, 28 Oct 2017 21:23:07 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/list-of-subjects/old-subject-list/</guid>
+      <description>Old subject list for pre-2017 students. Unless otherwise stated, students of Academic year 2074 and later shall not follow this list.
+   Subject Code Subject      COMPULSORY   CSC 451 Data Warehousing and Data Mining   CSC 452 Internship    ELECTIVE Choose any two majors (atleast)   CSC 453 Advanced Networking with IPV6   CSC 454 Distributed Networking   CSC 455 Network Security   CSC 456 Multimedia Database   CSC 457 Distributed and Object Oriented Database   CSC 458 Cloud Computing   CSC 459 Geographical Information System   CSC 460 Decision Support System    *Fair Warning: Internship consumes an ungodly amount of time from your daily life.</description>
+    </item>
+    
+    <item>
+      <title>New Syllabus and Microsyllabus</title>
+      <link>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/new-syllabus/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/new-syllabus/</guid>
+      <description>Nothing available for the new course(2074 course change) right now. If you have them, kindly fork and pull to update.
+Filesa.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}PDFa.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}Files are bundled and zipped only when collections are complete
+ This is YOUR website. The best way to start adding content is by clicking the &amp;nbsp;Edit this page button on the top-right corner of this webpage.</description>
+    </item>
     
     <item>
       <title>TU Old Questions</title>
@@ -17,7 +48,119 @@
       <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
       
       <guid>https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/</guid>
-      <description>FilesCSC451 - Data Warehousing and Data Mining - 2069.jpg View Download(34 Kb)CSC451 - Data Warehousing and Data Mining - 2071(I).jpg View Download(38 Kb)CSC451 - Data Warehousing and Data Mining - 2071(II).jpg View Download(71 Kb)CSC453 - Advanced Networking with IPv6 - 2069.jpg View Download(29 Kb)CSC453 - Advanced Networking with IPv6 - 2071.</description>
+      <description>FilesCSC451 - Data Warehousing and Data Mining - 2069.jpg View Download(34 Kb)CSC451 - Data Warehousing and Data Mining - 2071(I).jpg View Download(38 Kb)CSC451 - Data Warehousing and Data Mining - 2071(II).jpg View Download(71 Kb)CSC451 - Data Warehousing and Data Mining - 2073.jpg View Download(2822 Kb)CSC453 - Advanced Networking with IPv6 - 2069.</description>
+    </item>
+    
+    <item>
+      <title>CSC451 Data Warehousing and Data Mining</title>
+      <link>https://csitauthority.github.io/8thSem/en/notes/csc-451-datawarehousing-and-datamining/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/notes/csc-451-datawarehousing-and-datamining/</guid>
+      <description> Fork your own notes. Too complicated? Easily Upload on our SlackFiles are bundled and zipped only when collections are complete.
+ This is YOUR website. The best way to start adding content is by clicking the &amp;nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.
+ </description>
+    </item>
+    
+    <item>
+      <title>Ebooks</title>
+      <link>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/ebooks/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/ebooks/</guid>
+      <description>CSC451 Data Warehousing and Data Mining (DWDM) Join us on Slack to Upload your own ebooks or, if your prefer, fork itCSC458 Cloud Computing (CC) Join us on Slack to Upload your own ebooks or, if your prefer, fork itCSC459 Geographical Information System (GIS) Join us on Slack to Upload your own ebooks or, if your prefer, fork itFiles Uploaded by users:.</description>
+    </item>
+    
+    <item>
+      <title>Model Questions</title>
+      <link>https://csitauthority.github.io/8thSem/en/questions/model-questions/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/questions/model-questions/</guid>
+      <description>We have nothing of this sort, right now. Care to send us?
+Filesa.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}PDFa.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}Files are bundled and zipped only when collections are complete
+ This is YOUR website. The best way to start adding content is by clicking the &amp;nbsp;Edit this page button on the top-right corner of this webpage.</description>
+    </item>
+    
+    <item>
+      <title>Old Syllabus and Microsyllabus</title>
+      <link>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/old-syllabus/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/old-syllabus/</guid>
+      <description>MicroSyllabusa.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}SyllabusALL-SUBJECTS-TUSyllabus_CSITauthority.blogspot.com_.pdf View Download(483 Kb)CSC458 - CC - TUSyllabus - CSITauthority.blogspot.com.pdf View Download(93 Kb)a.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}More Filesa.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}Files are bundled and zipped only when collections are complete</description>
+    </item>
+    
+    <item>
+      <title>Classnotes</title>
+      <link>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/classnotes/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/classnotes/</guid>
+      <description>CSC451 - Data Warehousing and Data MiningCSC451 DWDM - classnotes.docx View Download(9759 Kb)CSC451 DWDM - complete notes v.1.0.docx View Download(1044 Kb)CSC451 DWDM - complete notes v.1.1.docx View Download(1628 Kb)a.viewLink{color: #8451A1;}a.downloadLink{color: #139948;}CSC459 - Geographical Information SystemCSC459 GIS - classnotes RS and GIS.</description>
+    </item>
+    
+    <item>
+      <title>CSC457 Distributed and Object Oriented Database</title>
+      <link>https://csitauthority.github.io/8thSem/en/notes/csc-457-distributed-and-oo-database/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/notes/csc-457-distributed-and-oo-database/</guid>
+      <description>We don&amp;rsquo;t have quality notes for this subject, and we&amp;rsquo;re concerned. Send us notes, please!
+ Fork your own notes. Too complicated? Easily Upload on our SlackFiles are bundled and zipped only when collections are complete.
+ This is YOUR website. The best way to start adding content is by clicking the &amp;nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.</description>
+    </item>
+    
+    <item>
+      <title>TU Solutions</title>
+      <link>https://csitauthority.github.io/8thSem/en/solutions/tu-solutions/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/solutions/tu-solutions/</guid>
+      <description>Oh boy, aren&amp;rsquo;t you sorry we have nothing here? Don&amp;rsquo;t let others experience this sadness - a hole in your heart. Here&amp;rsquo;s a suggestion: Upload the solutions that you&amp;rsquo;re about to make soon ;). Too complicated? Easily Upload on our Slack
+Uncategorized Files.gitkeep View Download(0 Kb)a.viewLink{color: #8451A1;}a.downloadLink{color: #139948;} This is YOUR website.</description>
+    </item>
+    
+    <item>
+      <title>Other Solutions</title>
+      <link>https://csitauthority.github.io/8thSem/en/solutions/other-solutions/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/solutions/other-solutions/</guid>
+      <description>Oh boy, aren&amp;rsquo;t you sorry we have nothing here? Don&amp;rsquo;t let others experience this sadness - a hole in your heart. Here&amp;rsquo;s a suggestion: Upload the solutions that you&amp;rsquo;re about to make soon ;). Too complicated? Easily Upload on our Slack
+Uncategorized Files.gitkeep View Download(0 Kb)a.viewLink{color: #8451A1;}a.downloadLink{color: #139948;} This is YOUR website.</description>
+    </item>
+    
+    <item>
+      <title>CSC458 Cloud Computing</title>
+      <link>https://csitauthority.github.io/8thSem/en/notes/csc-458-cloud-computing/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/notes/csc-458-cloud-computing/</guid>
+      <description> Fork your own notes. Too complicated? Easily Upload on our SlackFiles are bundled and zipped only when collections are complete.
+ This is YOUR website. The best way to start adding content is by clicking the &amp;nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.
+ </description>
+    </item>
+    
+    <item>
+      <title>CSC459 Geographical Information System</title>
+      <link>https://csitauthority.github.io/8thSem/en/notes/csc-459-geographical-information-system/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/notes/csc-459-geographical-information-system/</guid>
+      <description> Fork your own notes. Too complicated? Easily Upload on our SlackFiles are bundled and zipped only when collections are complete.
+ This is YOUR website. The best way to start adding content is by clicking the &amp;nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.
+ </description>
+    </item>
+    
+    <item>
+      <title>All Other Subjects</title>
+      <link>https://csitauthority.github.io/8thSem/en/notes/all-other-subjects/</link>
+      <pubDate>Tue, 19 Sep 2017 07:39:35 +0545</pubDate>
+      
+      <guid>https://csitauthority.github.io/8thSem/en/notes/all-other-subjects/</guid>
+      <description>We currently lack content on the following subjects. Help us out by contributing, if you&amp;rsquo;ve got them(Join our Slack, if that&amp;rsquo;s too complicated):
+   Subject Code Subject     CSC 453 Advanced Networking with IPV6   CSC 454 Distributed Networking   CSC 455 Network Security   CSC 456 Multimedia Database   CSC 460 Decision Support System    &amp;plus; All notes for the recently revised subject-list(See List of Subjects&amp;gt;New Subject List for more info)</description>
     </item>
     
     <item>

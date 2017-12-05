@@ -3,7 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://csitauthority.github.io/8thSem/en/list-of-subjects/new-subject-list/</loc>
+    <lastmod>2017-10-28T21:23:17+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/list-of-subjects/old-subject-list/</loc>
+    <lastmod>2017-10-28T21:23:07+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/new-syllabus/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
     <loc>https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/list-of-subjects/</loc>
+    <lastmod>2017-10-28T21:23:17+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/notes/csc-451-datawarehousing-and-datamining/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/ebooks/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/questions/model-questions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/old-syllabus/</loc>
     <lastmod>2017-09-19T07:39:35+05:45</lastmod>
   </url>
   
@@ -13,8 +53,63 @@
   </url>
   
   <url>
-    <loc>https://csitauthority.github.io/8thSem/en/</loc>
+    <loc>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/classnotes/</loc>
     <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/notes/csc-457-distributed-and-oo-database/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/solutions/tu-solutions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/notes/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/solutions/other-solutions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/notes/csc-458-cloud-computing/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/solutions/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/notes/csc-459-geographical-information-system/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/notes/all-other-subjects/</loc>
+    <lastmod>2017-09-19T07:39:35+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/</loc>
+    <lastmod>2017-10-28T21:23:17+05:45</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="np"

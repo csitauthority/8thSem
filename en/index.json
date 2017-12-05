@@ -1,24 +1,157 @@
 [
 {
+	"uri": "https://csitauthority.github.io/8thSem/en/list-of-subjects/new-subject-list/",
+	"title": "New Subject List",
+	"tags": [],
+	"description": "",
+	"content": "Based on course-update in late 2017. Effective from Academic year 2074.\n\r\rRelated file\r\r\rcourse-update-TU-official.pdf View Download\r(917 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r   Subject Code Subject      COMPULSORY   CSC 461 Advanced Database   CSC 462 Internship    ELECTIVE Choose any two majors (atleast)   CSC 463 Advanced Networking with IPV6   CSC 464 Distributed Networking   CSC 465 Game Technology   CSC 466 Distributed and Object Oriented Database   CSC 467 Introduction to Cloud Computing   CSC 468 Geographical Information System   CSC 469 Decision Support System and Expert System   CSC 470 Mobile Application Development   CSC 471 Real Time Systems   CSC 472 Network and System Administration   CSC 473 Embedded Systems Programming   MGT 474 International Business Management    *Fair Warning: Internship consumes an ungodly amount of time from your daily life. Although TU officially requires only 180hours of internship, most colleges demand that it be over 9000 over 300\n\r\rtable thead th{ background-color: #8451A1; color:#fff; }\rtable tbody tr:nth-child(1),\rtable tbody tr:nth-child(4){\rbackground-color: #eeefff;\r}\r\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/list-of-subjects/old-subject-list/",
+	"title": "Old Subject List",
+	"tags": [],
+	"description": "",
+	"content": "Old subject list for pre-2017 students. Unless otherwise stated, students of Academic year 2074 and later shall not follow this list.\n   Subject Code Subject      COMPULSORY   CSC 451 Data Warehousing and Data Mining   CSC 452 Internship    ELECTIVE Choose any two majors (atleast)   CSC 453 Advanced Networking with IPV6   CSC 454 Distributed Networking   CSC 455 Network Security   CSC 456 Multimedia Database   CSC 457 Distributed and Object Oriented Database   CSC 458 Cloud Computing   CSC 459 Geographical Information System   CSC 460 Decision Support System    *Fair Warning: Internship consumes an ungodly amount of time from your daily life. Although TU officially requires only 180hours of internship, most colleges demand that it be over 9000 over 300\n\rtable thead th{ background-color: #8451A1; color:#fff; }\rtable tbody tr:nth-child(1),\rtable tbody tr:nth-child(4){\rbackground-color: #eeefff;\r}\r "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/new-syllabus/",
+	"title": "New Syllabus and Microsyllabus",
+	"tags": [],
+	"description": "",
+	"content": "Nothing available for the new course(2074 course change) right now. If you have them, kindly fork and pull to update.\n\r\r\rFiles\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rPDF\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
 	"uri": "https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/",
 	"title": "TU Old Questions",
 	"tags": [],
 	"description": "",
-	"content": "\r\rFiles\r\r\rCSC451 - Data Warehousing and Data Mining - 2069.jpg View Download\r(34 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(I).jpg View Download\r(38 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(II).jpg View Download\r(71 Kb)\r\r\rCSC453 - Advanced Networking with IPv6 - 2069.jpg View Download\r(29 Kb)\r\r\rCSC453 - Advanced Networking with IPv6 - 2071.jpg View Download\r(34 Kb)\r\r\rCSC457 - Distributed and Object Oriented Database - 2071(II).jpg View Download\r(82 Kb)\r\r\rCSC458 - Cloud Computing - 2069.jpg View Download\r(31 Kb)\r\r\rCSC458 - Cloud Computing - 2071.jpg View Download\r(43 Kb)\r\r\rCSC459 - Geographical Information System - 2069.jpg View Download\r(30 Kb)\r\r\rCSC459 - Geographical Information System - 2071.jpg View Download\r(42 Kb)\r\r\rCSC459 - Geographical Information System - 2071.zip View Download\r(42 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rPDF\r\r\rCSC458 - Cloud Computing - 2069-71.pdf View Download\r(330 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+	"content": "\r\rFiles\r\r\rCSC451 - Data Warehousing and Data Mining - 2069.jpg View Download\r(34 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(I).jpg View Download\r(38 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(II).jpg View Download\r(71 Kb)\r\r\rCSC451 - Data Warehousing and Data Mining - 2073.jpg View Download\r(2822 Kb)\r\r\rCSC453 - Advanced Networking with IPv6 - 2069.jpg View Download\r(29 Kb)\r\r\rCSC453 - Advanced Networking with IPv6 - 2071.jpg View Download\r(34 Kb)\r\r\rCSC457 - Distributed and Object Oriented Database - 2071(II).jpg View Download\r(82 Kb)\r\r\rCSC458 - Cloud Computing - 2069.jpg View Download\r(31 Kb)\r\r\rCSC458 - Cloud Computing - 2071.jpg View Download\r(43 Kb)\r\r\rCSC459 - Geographical Information System - 2069-2071-2073.zip View Download\r(2664 Kb)\r\r\rCSC459 - Geographical Information System - 2069.jpg View Download\r(30 Kb)\r\r\rCSC459 - Geographical Information System - 2071.jpg View Download\r(42 Kb)\r\r\rCSC459 - Geographical Information System - 2073.jpg View Download\r(2704 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rPDF\r\r\rCSC458 - Cloud Computing - 2069-71.pdf View Download\r(330 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/list-of-subjects/",
+	"title": "List of Subjects",
+	"tags": [],
+	"description": "",
+	"content": " Section 1 List of Subjects Reliable official list of subjects for both old, ongoing and, new students.\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-451-datawarehousing-and-datamining/",
+	"title": "CSC451 Data Warehousing and Data Mining",
+	"tags": [],
+	"description": "",
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/ebooks/",
+	"title": "Ebooks",
+	"tags": [],
+	"description": "",
+	"content": "CSC451 Data Warehousing and Data Mining (DWDM)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC458 Cloud Computing (CC)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC459 Geographical Information System (GIS)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\r\r\rFiles Uploaded by users:\r\r\r.gitkeep View Download\r(0 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rYou are getting these files courtesy of someone else. The good samaritan in you calls for a return of favor. Upload your ebooks too ;)\rWe might be missing a few ebooks here and there. Be a good samaritan and contribute, will you? Ps. Protip: write subject-code anywhere in your filename so that it gets automatically categorized.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/questions/model-questions/",
+	"title": "Model Questions",
+	"tags": [],
+	"description": "",
+	"content": "We have nothing of this sort, right now. Care to send us?\n\r\r\rFiles\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rPDF\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/old-syllabus/",
+	"title": "Old Syllabus and Microsyllabus",
+	"tags": [],
+	"description": "",
+	"content": "\r\rMicroSyllabus\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rSyllabus\r\r\rALL-SUBJECTS-TUSyllabus_CSITauthority.blogspot.com_.pdf View Download\r(483 Kb)\r\r\rCSC458 - CC - TUSyllabus - CSITauthority.blogspot.com.pdf View Download\r(93 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rMore Files\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/questions/",
 	"title": "Questions",
 	"tags": [],
 	"description": "",
-	"content": " Section 1 Questions Browse Old-Questions, Model Questions, Sendup Questions and more from the community.\n"
+	"content": " Section 2 Questions Browse Old-Questions, Model Questions, Sendup Questions and more from the community.\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/classnotes/",
+	"title": "Classnotes",
+	"tags": [],
+	"description": "",
+	"content": "\r\rCSC451 - Data Warehousing and Data Mining\r\r\rCSC451 DWDM - classnotes.docx View Download\r(9759 Kb)\r\r\rCSC451 DWDM - complete notes v.1.0.docx View Download\r(1044 Kb)\r\r\rCSC451 DWDM - complete notes v.1.1.docx View Download\r(1628 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rCSC459 - Geographical Information System\r\r\rCSC459 GIS - classnotes RS and GIS.pdf View Download\r(5337 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/",
+	"title": "Syllabus/Microsyllabus",
+	"tags": [],
+	"description": "",
+	"content": " Section 3 Micro/Syllabus Browse old and new, syllabus and micro-syllabus.\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-457-distributed-and-oo-database/",
+	"title": "CSC457 Distributed and Object Oriented Database",
+	"tags": [],
+	"description": "",
+	"content": "We don\u0026rsquo;t have quality notes for this subject, and we\u0026rsquo;re concerned. Send us notes, please!\n\r \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/solutions/tu-solutions/",
+	"title": "TU Solutions",
+	"tags": [],
+	"description": "",
+	"content": "Oh boy, aren\u0026rsquo;t you sorry we have nothing here? Don\u0026rsquo;t let others experience this sadness - a hole in your heart. Here\u0026rsquo;s a suggestion: Upload the solutions that you\u0026rsquo;re about to make soon ;). Too complicated? Easily Upload on our Slack\n\r\r\rUncategorized Files\r\r\r.gitkeep View Download\r(0 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/",
+	"title": "Notes",
+	"tags": [],
+	"description": "",
+	"content": " Section 4 Notes Like always, CSITauthority brings you the most consistent, reliable and comprehensive notes in one single spot.\nps. Psst, we're truly a community site now. Feel free to click on that \u0026nbsp;Edit this page link and join us anytime you like. "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/solutions/other-solutions/",
+	"title": "Other Solutions",
+	"tags": [],
+	"description": "",
+	"content": "Oh boy, aren\u0026rsquo;t you sorry we have nothing here? Don\u0026rsquo;t let others experience this sadness - a hole in your heart. Here\u0026rsquo;s a suggestion: Upload the solutions that you\u0026rsquo;re about to make soon ;). Too complicated? Easily Upload on our Slack\n\r\r\rUncategorized Files\r\r\r.gitkeep View Download\r(0 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/",
+	"title": "Ebooks &amp; Classnotes",
+	"tags": [],
+	"description": "",
+	"content": " Section 5 Ebooks \u0026amp; Classnotes Pairing great notes with good books can never go wrong ;)\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-458-cloud-computing/",
+	"title": "CSC458 Cloud Computing",
+	"tags": [],
+	"description": "",
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/solutions/",
+	"title": "Solutions",
+	"tags": [],
+	"description": "",
+	"content": " Section 6 Solutions Reading up on Solutions to all those pesky questions sure makes one hell of a preparation ;)\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-459-geographical-information-system/",
+	"title": "CSC459 Geographical Information System",
+	"tags": [],
+	"description": "",
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/all-other-subjects/",
+	"title": "All Other Subjects",
+	"tags": [],
+	"description": "",
+	"content": "We currently lack content on the following subjects. Help us out by contributing, if you\u0026rsquo;ve got them(Join our Slack, if that\u0026rsquo;s too complicated):\n   Subject Code Subject     CSC 453 Advanced Networking with IPV6   CSC 454 Distributed Networking   CSC 455 Network Security   CSC 456 Multimedia Database   CSC 460 Decision Support System    \u0026plus; All notes for the recently revised subject-list(See List of Subjects\u0026gt;New Subject List for more info)\n\r table tr, table th{ background-color: #FAE2E2; }  Files are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/",
 	"title": "8th Semester BSc. CSIT",
 	"tags": [],
 	"description": "",
-	"content": " 8th Semester contents for BSc. CSIT \u0026nbsp;contributors  .ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r1 commits\r\r  "
+	"content": " 8th Semester contents for BSc. CSIT \u0026nbsp;contributors  .ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r1 commits\r\r  Trouble forking with complicated steps?\n\rYou can join our slack and upload there.\r\r"
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/categories/",
