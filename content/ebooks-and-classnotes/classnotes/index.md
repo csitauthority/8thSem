@@ -8,6 +8,8 @@ weight = 15
 
 {{% attachments style="none" title="CSC457 - Distributed and Object Oriented Database" pattern="CSC457" /%}}
 
+{{% attachments style="none" title="CSC458 - Cloud Computing" pattern="CSC458" /%}}
+
 {{% attachments style="none" title="CSC459 - Geographical Information System" pattern="CSC459" /%}}
 
 {{%panel theme="success" header="Fallback to Gdrive" footer="&ast;Large files are very resource intensive to Github. Fallback options are available here."%}}
