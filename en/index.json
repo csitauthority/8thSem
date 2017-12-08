@@ -39,14 +39,14 @@
 	"title": "CSC451 Data Warehousing and Data Mining",
 	"tags": [],
 	"description": "",
-	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\r\u0026ast;Pro tip: Ebooks and Class-notes are also available for this subjectFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/ebooks-and-classnotes/ebooks/",
 	"title": "Ebooks",
 	"tags": [],
 	"description": "",
-	"content": "CSC451 Data Warehousing and Data Mining (DWDM)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC458 Cloud Computing (CC)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC459 Geographical Information System (GIS)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\r\r\rFiles Uploaded by users:\r\r\r.gitkeep View Download\r(0 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rYou are getting these files courtesy of someone else. The good samaritan in you calls for a return of favor. Upload your ebooks too ;)\rWe might be missing a few ebooks here and there. Be a good samaritan and contribute, will you? Ps. Protip: write subject-code anywhere in your filename so that it gets automatically categorized.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+	"content": "CSC451 Data Warehousing and Data Mining (DWDM)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC457 Distributed and Object Oriented Database (DOOD)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC458 Cloud Computing (CC)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\rCSC459 Geographical Information System (GIS)\r \rJoin us on Slack to Upload your own ebooks or, if your prefer, fork it\r\r\r\rFiles Uploaded by users:\r\r\r.gitkeep View Download\r(0 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rYou are getting these files courtesy of someone else. The good samaritan in you calls for a return of favor. Upload your ebooks too ;)\rWe might be missing a few ebooks here and there. Be a good samaritan and contribute, will you? Ps. Protip: write subject-code anywhere in your filename so that it gets automatically categorized.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/questions/model-questions/",
@@ -74,7 +74,7 @@
 	"title": "Classnotes",
 	"tags": [],
 	"description": "",
-	"content": "\r\rCSC451 - Data Warehousing and Data Mining\r\r\rCSC451 DWDM - classnotes.docx View Download\r(9759 Kb)\r\r\rCSC451 DWDM - complete notes v.1.0.docx View Download\r(1044 Kb)\r\r\rCSC451 DWDM - complete notes v.1.1.docx View Download\r(1628 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rCSC459 - Geographical Information System\r\r\rCSC459 GIS - classnotes RS and GIS.pdf View Download\r(5337 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+	"content": "\r\rCSC451 - Data Warehousing and Data Mining\r\r\rCSC451 DWDM - classnotes.docx View Download\r(9759 Kb)\r\r\rCSC451 DWDM - complete notes v.1.0.docx View Download\r(1044 Kb)\r\r\rCSC451 DWDM - complete notes v.1.1.docx View Download\r(1628 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rCSC457 - Distributed and Object Oriented Database\r\r\rCSC457 DOOD - classnotes - Bipin Karki.pdf View Download\r(6611 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\r\r\rCSC459 - Geographical Information System\r\r\rCSC459 GIS - classnotes RS and GIS.pdf View Download\r(5337 Kb)\r\r\r\r\ra.viewLink{\rcolor: #8451A1;\r}\ra.downloadLink{\rcolor: #139948;\r}\r\rFallback to Gdrive\r \r*Large files are very resource intensive to Github. Fallback options are available here.\r\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/syllabus-microsyllabus/",
@@ -82,13 +82,6 @@
 	"tags": [],
 	"description": "",
 	"content": " Section 3 Micro/Syllabus Browse old and new, syllabus and micro-syllabus.\n"
-},
-{
-	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-457-distributed-and-oo-database/",
-	"title": "CSC457 Distributed and Object Oriented Database",
-	"tags": [],
-	"description": "",
-	"content": "We don\u0026rsquo;t have quality notes for this subject, and we\u0026rsquo;re concerned. Send us notes, please!\n\r \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/solutions/tu-solutions/",
@@ -119,13 +112,6 @@
 	"content": " Section 5 Ebooks \u0026amp; Classnotes Pairing great notes with good books can never go wrong ;)\n"
 },
 {
-	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-458-cloud-computing/",
-	"title": "CSC458 Cloud Computing",
-	"tags": [],
-	"description": "",
-	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
-},
-{
 	"uri": "https://csitauthority.github.io/8thSem/en/solutions/",
 	"title": "Solutions",
 	"tags": [],
@@ -133,25 +119,46 @@
 	"content": " Section 6 Solutions Reading up on Solutions to all those pesky questions sure makes one hell of a preparation ;)\n"
 },
 {
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-454-distributed-networking/",
+	"title": "CSC454 Distributed Networking",
+	"tags": [],
+	"description": "",
+	"content": "While we do have all the necessary notes here, this section has not been properly managed due to lack of time. Please find your required notes from the mess below :)\n\r \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-457-distributed-and-oo-database/",
+	"title": "CSC457 Distributed and Object Oriented Database",
+	"tags": [],
+	"description": "",
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\r\u0026ast;Pro tip: Ebooks and Class-notes are also available for this subjectFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-458-cloud-computing/",
+	"title": "CSC458 Cloud Computing",
+	"tags": [],
+	"description": "",
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\r\u0026ast;Pro tip: Ebooks are also available for this subjectFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
 	"uri": "https://csitauthority.github.io/8thSem/en/notes/csc-459-geographical-information-system/",
 	"title": "CSC459 Geographical Information System",
 	"tags": [],
 	"description": "",
-	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\rFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+	"content": " \rFork your own notes. Too complicated? Easily Upload on our Slack\r\r\u0026ast;Pro tip: Ebooks and Class-notes are also available for this subjectFiles are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/notes/all-other-subjects/",
 	"title": "All Other Subjects",
 	"tags": [],
 	"description": "",
-	"content": "We currently lack content on the following subjects. Help us out by contributing, if you\u0026rsquo;ve got them(Join our Slack, if that\u0026rsquo;s too complicated):\n   Subject Code Subject     CSC 453 Advanced Networking with IPV6   CSC 454 Distributed Networking   CSC 455 Network Security   CSC 456 Multimedia Database   CSC 460 Decision Support System    \u0026plus; All notes for the recently revised subject-list(See List of Subjects\u0026gt;New Subject List for more info)\n\r table tr, table th{ background-color: #FAE2E2; }  Files are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+	"content": "We currently lack content on the following subjects. Help us out by contributing, if you\u0026rsquo;ve got them(Join our Slack, if that\u0026rsquo;s too complicated):\n   Subject Code Subject     CSC 453 Advanced Networking with IPV6   CSC 455 Network Security   CSC 456 Multimedia Database   CSC 460 Decision Support System    \u0026plus; All notes for the recently revised subject-list(See List of Subjects\u0026gt;New Subject List for more info)\n\r table tr, table th{ background-color: #FAE2E2; }  Files are bundled and zipped only when collections are complete.\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/",
 	"title": "8th Semester BSc. CSIT",
 	"tags": [],
 	"description": "",
-	"content": " 8th Semester contents for BSc. CSIT \u0026nbsp;contributors  .ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r3 commits\r\r  Trouble forking with complicated steps?\n\rYou can join our slack and upload there.\r\r"
+	"content": " 8th Semester contents for BSc. CSIT \u0026nbsp;contributors  .ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r4 commits\r\r  Trouble forking with complicated steps?\n\rYou can join our slack and upload there.\r\r"
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/categories/",
@@ -165,7 +172,7 @@
 	"title": "Credits",
 	"tags": [],
 	"description": "",
-	"content": " Contributors for 8th Sem Thanks to them  for making CSIT community a better place !\n.ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r3 commits\r\r And a very special thanks to @matcornic for his work on Hugo Theme Learn, a hugo port inspired by Grav Learn Theme. The very first version of content subpages for CSITauthority is based off this commit.\nLogo  Two Strokes - Minimal. Fast. Fluid. Fully Vector Design  Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Hugo Github - Continuous deployment and hosting of this website  "
+	"content": " Contributors for 8th Sem Thanks to them  for making CSIT community a better place !\n.ghContributors\r{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div\r{\rwidth: 50% ;\rdisplay: inline-flex;\r}\r.ghContributors  div label\r{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rpadding-left: 4px ;\r}\r.ghContributors img.imgStyle{\rvertical-align:middle;\rmargin-bottom:.25em;\r}\r.ghContributors  div\r{\rmargin-bottom: 5px;\r}\r.ghContributors  div span\r{\rfont-size: x-small;\r}\r.ghContributors img.imgStyle\r{\rheight: 32px;\r}\r\r@siddhantrimal\r4 commits\r\r And a very special thanks to @matcornic for his work on Hugo Theme Learn, a hugo port inspired by Grav Learn Theme. The very first version of content subpages for CSITauthority is based off this commit.\nLogo  Two Strokes - Minimal. Fast. Fluid. Fully Vector Design  Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Hugo Github - Continuous deployment and hosting of this website  "
 },
 {
 	"uri": "https://csitauthority.github.io/8thSem/en/how-to-contribute/",
