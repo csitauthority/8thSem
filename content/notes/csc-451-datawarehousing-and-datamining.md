@@ -9,7 +9,7 @@ weight = 10
 {{%/panel%}}
 
 {{% notice note %}}
-Files are bundled and zipped only when collections are complete.
+__&ast;Pro tip:__ <a href="/8thSem/en/ebooks-and-classnotes/ebooks/" style="color:#000;">Ebooks</a> and <a href="/8thSem/en/ebooks-and-classnotes/classnotes/" style="color:#000;">Class-notes</a> are also available for this subject<br/>Files are bundled and zipped only when collections are complete.
 {{% /notice %}}
 
 > This is YOUR website. The best way to start adding content is by clicking the <i class="fa fa-code-fork">&nbsp;__Edit this page__</i> button on the top-right corner of this webpage. Feel free to [come knocking](https://m.me/CSITauthority "We're responsive on messenger!") incase of any issues.

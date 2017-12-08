@@ -1,7 +1,7 @@
 +++
 title = "All Other Subjects"
 date =  2017-09-19T07:39:35+05:45
-weight = 80
+weight = 200
 
 [params]
 disableInlineCopyToClipBoard = true
@@ -14,7 +14,6 @@ We currently lack content on the following subjects. Help us out by [contributin
 |Subject Code|Subject
 |---|---|
 |CSC 453| Advanced Networking with IPV6|
-|CSC 454| Distributed Networking|
 |CSC 455| Network Security|
 |CSC 456| Multimedia Database|
 |CSC 460| Decision Support System|
