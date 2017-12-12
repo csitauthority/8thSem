@@ -13,7 +13,6 @@ We currently lack content on the following subjects. Help us out by [contributin
 
 |Subject Code|Subject
 |---|---|
-|CSC 453| Advanced Networking with IPV6|
 |CSC 455| Network Security|
 |CSC 456| Multimedia Database|
 |CSC 460| Decision Support System|

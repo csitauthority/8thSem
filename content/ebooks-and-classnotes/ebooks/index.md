@@ -8,6 +8,10 @@ weight = 10
 {{% spitgdriveembed url="https://drive.google.com/drive/folders/1rTQERnfrvPUMub9iS1Z4D4TRlwhXe0_A?usp=sharing" %}}
 {{%/panel%}}
 
+{{% panel header="CSC453 Advanced Networking with IPv6 (IPv6)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"  %}} 
+{{% spitgdriveembed url="https://drive.google.com/drive/folders/1knoRfwFcOcTfdcSk7OQAw6PDBfHG7_Lp?usp=sharing" %}}
+{{%/panel%}}
+
 {{% panel header="CSC457 Distributed and Object Oriented Database (DOOD)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"  %}} 
 {{% spitgdriveembed url="https://drive.google.com/drive/folders/1fgIoif8udYgws2HPiMESleCZEQ09fL8n?usp=sharing" %}}
 {{%/panel%}}
