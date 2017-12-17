@@ -5,10 +5,10 @@ weight = 10
 +++
 
 {{%alert danger%}}
-We have nothing of this sort, right now. Care to send us?
+We don't have a lot of these, right now. Care to send us?
 {{%/alert%}}
 
-{{% attachments style="grey" title="Files" pattern=".*(jpg|zip)" /%}}
+{{% attachments style="grey" title="Files" pattern=".*(jpg|zip|docx|doc)" /%}}
 {{% attachments style="orange" title="PDF" pattern=".*pdf" /%}}
 
 {{% notice note %}}

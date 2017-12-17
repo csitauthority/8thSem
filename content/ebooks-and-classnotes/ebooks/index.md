@@ -8,8 +8,24 @@ weight = 10
 {{% spitgdriveembed url="https://drive.google.com/drive/folders/1rTQERnfrvPUMub9iS1Z4D4TRlwhXe0_A?usp=sharing" %}}
 {{%/panel%}}
 
+{{%panel theme="default" header="CSC452 Internship"%}}
+Books can't teach you practical skills
+{{%/panel%}}
+
 {{% panel header="CSC453 Advanced Networking with IPv6 (IPv6)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"  %}} 
 {{% spitgdriveembed url="https://drive.google.com/drive/folders/1knoRfwFcOcTfdcSk7OQAw6PDBfHG7_Lp?usp=sharing" %}}
+{{%/panel%}}
+
+{{%panel theme="danger" header="CSC454 Distributed Networking" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"%}}
+We don't have 'Ebooks', per se, for this subject, we're afraid. We do have Notes on it though. Please feel free to send us anything that you have on you :)
+{{%/panel%}}
+
+{{% panel header="CSC455 Network Security" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"  %}} 
+{{% spitgdriveembed url="https://drive.google.com/drive/folders/1lNEQ1PsV82LnXivTkMp10B-BK2YwQdIG?usp=sharing" %}}
+{{%/panel%}}
+
+{{%panel theme="danger" header="CSC456 Multimedia Database" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"%}}
+We don't have 'Ebooks', per se, for this subject, we're afraid. We do have Notes on it though. Please feel free to send us anything that you have on you :)
 {{%/panel%}}
 
 {{% panel header="CSC457 Distributed and Object Oriented Database (DOOD)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"  %}} 
@@ -22,6 +38,10 @@ weight = 10
 
 {{% panel header="CSC459 Geographical Information System (GIS)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"  %}} 
 {{% spitgdriveembed url="https://drive.google.com/drive/folders/1gz6bNk6edSjwOrluWyiHpOPuSw9AGQZf?usp=sharing" %}}
+{{%/panel%}}
+
+{{%panel theme="danger" header="CSC460 Decision Support System (DSS)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"%}}
+We don't have 'Ebooks', per se, for this subject, we're afraid. We do have Notes on it though. Please feel free to send us anything that you have on you :)
 {{%/panel%}}
 
 {{% attachments style="none" title="Files Uploaded by users:" pattern="" /%}}
