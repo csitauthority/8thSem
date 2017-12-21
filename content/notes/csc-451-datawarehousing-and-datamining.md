@@ -4,7 +4,7 @@ date =  2017-09-19T07:39:35+05:45
 weight = 10
 +++
 
-{{% panel theme="success" footer="[Fork your own notes](/8thSem/en/how-to-contribute). Too complicated? Easily Upload on our __[Slack](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk)__" %}} 
+{{% panel footer="[Fork your own notes](/8thSem/en/how-to-contribute). Too complicated? Easily Upload on our __[Slack](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk)__" %}} 
 {{% spitgdriveembed url="https://drive.google.com/drive/folders/1PiIjIJes-UlseV0YLsNqFH4U4ok9LHS5?usp=sharing" height="300px" %}}
 {{%/panel%}}
 
