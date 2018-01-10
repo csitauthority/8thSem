@@ -3,10 +3,9 @@ title = "TU Old Questions"
 date =  2017-09-19T07:39:35+05:45
 weight = 5
 +++
-
-{{% attachments style="grey" title="Files" pattern=".*(jpg|zip)" /%}}
+{{% attachments style="grey" title="Questions Collection" pattern="collection" /%}}
 {{% attachments style="orange" title="PDF" pattern=".*pdf" /%}}
-
+{{% attachments style="grey" title="Other Files (ZIP/JPG)" pattern=".*(jpg|zip)" /%}}
 {{% notice note %}}
 Files are bundled and zipped only when collections are complete
 {{% /notice %}}
