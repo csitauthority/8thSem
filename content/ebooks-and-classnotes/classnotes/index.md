@@ -8,6 +8,8 @@ weight = 15
 
 {{% attachments style="none" title="CSC453 - Advanced Networking with IPv6" pattern="CSC453" /%}}
 
+{{% attachments style="none" title="CSC454 - Distributed Networking" pattern="CSC454" /%}}
+
 {{% attachments style="none" title="CSC457 - Distributed and Object Oriented Database" pattern="CSC457" /%}}
 
 {{% attachments style="none" title="CSC458 - Cloud Computing" pattern="CSC458" /%}}
