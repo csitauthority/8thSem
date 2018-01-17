@@ -41,7 +41,7 @@ We don't have 'Ebooks', per se, for this subject, we're afraid. We do have Notes
 {{%/panel%}}
 
 {{%panel theme="danger" header="CSC460 Decision Support System (DSS)" footer="Join us on Slack to [Upload your own ebooks](https://join.slack.com/t/csitauthority/shared_invite/enQtMjgwOTA1NjExMzQ1LTc2Yzg0ODkyNzcxYjkyNzczOTdiMDE1OTIxNzg4MjNkOWJlM2U2MDc3OTBiOGQ4YWE0YTNlNDFkYWE2NjNlOTk) or, if your prefer, [fork it](/8thSem/en/how-to-contribute)"%}}
-We don't have 'Ebooks', per se, for this subject, we're afraid. We do have Notes on it though. Please feel free to send us anything that you have on you :)
+Owing to several different things, ___time___ being the most prominent, we are unable to properly categorize different segments of this section. Ebooks for this subjet are mixed with the notes. Please find them in the notes section. We're terribly sorry.
 {{%/panel%}}
 
 {{% attachments style="none" title="Files Uploaded by users:" pattern="" /%}}
